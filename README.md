@@ -28,6 +28,11 @@ To run the `main` script, download the repository, change the optimization param
 
 ### Results
 The code produces wavefront shaping reconstructions, similar to those presented in figure 3 of the publication.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4eb0fa47-a430-4690-ad45-44ecac20f0e0" alt="figure_for_github" width="600">
+</div>
+
+
 
 ### License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
