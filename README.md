@@ -20,14 +20,14 @@ This repository contains the Python code implementation for the following public
 - `data.py`: Contains the `load_data` function to load the measurement data from the dataset.
 - `optimization.py`: Contains functions for the gradient ascent optimization.
 - `utility.py`: Contains utility functions for the optimization.
-- A dataset containing the measurements used to generate figure 2 in the main text of the article (`target_measurements.npy`), an invasive reference measurement (`reference_measurement.npy`), and an XML with measurement parameters (`measurement_data.xml`), along with additional experimental data supporting this publication, is available on Figshare: [![Figshare DOI](https://img.shields.io/badge/Figshare-10.6084/m9.figshare.23790264-blue)](https://doi.org/10.6084/m9.figshare.23790264).
+- A dataset containing the measurements used to generate figure 3 in the main text of the article (`target_measurements.npy`), an invasive reference measurement (`reference_measurement.npy`), and an XML with measurement parameters (`measurement_data.xml`), along with additional experimental data supporting this publication, is available on Figshare: [![Figshare DOI](https://img.shields.io/badge/Figshare-10.6084/m9.figshare.23790264-blue)](https://doi.org/10.6084/m9.figshare.23790264).
 
 
 ### Running the Code
 To run the `main` script, download the repository, change the optimization parameters in `main.py`, and use the following command: `python main.py`
 
 ### Results
-The code produces wavefront shaping reconstructions, similar to those presented in Figure 2 of the publication.
+The code produces wavefront shaping reconstructions, similar to those presented in figure 3 of the publication.
 
 ### License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
