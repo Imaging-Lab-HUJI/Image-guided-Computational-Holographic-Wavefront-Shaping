@@ -32,10 +32,5 @@ The code produces wavefront shaping reconstructions, similar to those presented 
   <img src="https://github.com/user-attachments/assets/4eb0fa47-a430-4690-ad45-44ecac20f0e0" alt="figure_for_github" width="600">
 </div>
 
-
-
-### License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ## Citation
 Please cite the publication if you use this code or data in your research.
